@@ -5,10 +5,10 @@
 </div> 
 
 <p align="center">
-  <a href="# описание">Описание</a> &nbsp;&bull;&nbsp;
-  <a href="#computer-running">Возможности</a> &nbsp;&bull;&nbsp;
+  <a href="#описание">Описание</a> &nbsp;&bull;&nbsp;
+  <a href="#&#9881; Возможности">Возможности</a> &nbsp;&bull;&nbsp;
   <a href="#toolbox-tech-stack">Быстрый старт</a> &nbsp;&bull;&nbsp;
-   <a href="# Научная-основа">Научная основа</a>
+   <a href="#Научная-основа">Научная основа</a>
 </p>
 
 <br>
